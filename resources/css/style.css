@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+.header-one {
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.header-two {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
