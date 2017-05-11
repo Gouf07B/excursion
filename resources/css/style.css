@@ -1,18 +1,33 @@
 body {
     background-color: black;
-}
-.header-one {
-    color: white;
+    text-align: center;
     font-family: Verdana;
+    color: white;
+}
+.h1 {
     font-weight: normal;
     font-size: 50px;
-    text-align: center;
 }
 
-.header-two {
-    color: white;
-    font-family: Verdana;
+.h2 {
     font-weight: 300;
     font-size: 42px;
+}
+
+video {
+    object-fit: contain;
+}
+
+.footer {
+    text-align: right;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+.download {
     text-align: center;
+    font-size: 16px;
 }
